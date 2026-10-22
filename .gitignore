@@ -1,0 +1,7 @@
+# 预训练字向量和生成的 pickle 体积较大，不入库
+sgns.financial.char
+word_embedding.dict
+
+__pycache__/
+*.pyc
+.idea/
